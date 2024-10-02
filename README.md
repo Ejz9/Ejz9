@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a undergraduate student in computer science pa
 
 Here are some of the tools and technologies I work with:
 
-- **Languages:** ![Java](https://img.shields.io/badge/java?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Languages:** ![Java](https://img.shields.io/badge/oracle?style=flat&logo=oracle&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Frameworks & Libraries:** ![Electron](https://img.shields.io/badge/React-61DAFB?style=flat&logo=electron&logoColor=black)
 - **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Tools:** IntelliJ IDEA, Visual Studio Code, GitHub, Linux
@@ -67,15 +67,6 @@ Feel free to connect with me on these platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=web&logoColor=white)](https://yourwebsite.com)
-
----
-
-### 🧑‍💻 Current Focus
-
-Right now, I'm learning and exploring:
-
-- 🖥️ How to work with High Level languages and a DBMS.
-- 🚀 Electron and how it integrates with other systems.
 
 ---
 
