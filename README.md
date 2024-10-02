@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm a undergraduate student in computer science pa
 
 Here are some of the tools and technologies I work with:
 
-- **Languages:** ![Java](https://img.shields.io/badge/oracle?style=flat&logo=oracle&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks & Libraries:** ![Electron](https://img.shields.io/badge/React-61DAFB?style=flat&logo=electron&logoColor=black)
+- **Languages:** ![Java](![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frameworks & Libraries:** ![Electron](![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=black)
 - **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Tools:** IntelliJ IDEA, Visual Studio Code, GitHub, Linux
 
@@ -47,8 +47,8 @@ Here are some of the tools and technologies I work with:
 
 Here are some of the projects I'm currently working on or have contributed to:
 
-- **[Project 1](https://github.com/yourusername/project1)** - A [short description of your project], built with [Java and Electron].
-- **[Project 2](https://github.com/yourusername/project2)** - A [short description of your project], using [Java].
+- **[DBMS Project](https://github.com/Ejz9/DMS-Project)** - A app to view football player statistics and information from, built with [Java and Electron].
+- **[Texas Holdem CLI](https://github.com/fordashton3/Texas-Holdem)** - A implementation of Texas Holdem in CLI, using [Java].
 
 ---
 
@@ -60,22 +60,13 @@ Here’s a look at my GitHub activity and stats:
 
 ---
 
-### 🌐 Connect with Me
-
-Feel free to connect with me on these platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=web&logoColor=white)](https://yourwebsite.com)
-
----
-
 ### 🎮 Hobbies
 
 - When I'm not coding, you can find me:
-  - 🎮 Playing [Valorant](#) or [other games].
-  - 📚 Reading books on [tech, non-fiction, etc.].
-  - 🎧 Listening to [music, podcasts, etc.].
+  - 🎮 Playing **Valorant**, **Counter-Strike**, or **Warframe** with friends.
+  - 📚 Reading books on **technology**, **sci-fi**, or **self-improvement**.
+  - 🎧 Listening to **FLAC-quality music**, **tech podcasts**, or exploring **new IEMs** for better audio quality.
+  - 🚗 Tinkering with my **2010 Prius** or planning out tech upgrades like **Apple CarPlay** for my sound system.
 
 ---
 
