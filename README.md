@@ -47,7 +47,7 @@ Here are some of the tools and technologies I work with:
 
 Here are some of the projects I'm currently working on or have contributed to:
 
-- **[DBMS Project](https://github.com/Ejz9/DMS-Project)** - A app to view football player statistics and information from, built with [Java and Electron].
+- **[DBMS Project](https://github.com/Ejz9/DMS-Project)** - A app to view football player statistics and information from 1922 - 2022, built with [Java and Electron].
 - **[Texas Holdem CLI](https://github.com/fordashton3/Texas-Holdem)** - A implementation of Texas Holdem in CLI, using [Java].
 
 ---
