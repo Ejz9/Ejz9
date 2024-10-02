@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a undergraduate student in computer science pa
 
 Here are some of the tools and technologies I work with:
 
-- **Languages:** ![Java](https://img.shields.io/badge/Python-3776AB?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Languages:** ![Java](https://img.shields.io/badge/java?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Frameworks & Libraries:** ![Electron](https://img.shields.io/badge/React-61DAFB?style=flat&logo=electron&logoColor=black)
 - **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Tools:** IntelliJ IDEA, Visual Studio Code, GitHub, Linux
