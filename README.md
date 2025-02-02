@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a undergraduate student in computer science pa
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on a project for my Database Management Systems class.
-- 🌱 I’m currently learning sql and electron touching up on my HTML and CSS.
+- 🔭 I’m currently working school work as the semester begins.
+- 🌱 I’m currently learning about system security and software engineering.
 - 👯 I’m looking to collaborate on open-source projects to refine my skills.
 - 💬 Ask me about computer hardware, docker, and privacy.
 - 📫 How to reach me: ejz11@proton.me. (Social links in my profile.)
