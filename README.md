@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a undergraduate student in computer science pa
 - 🌱 I’m currently learning about system security and software engineering.
 - 👯 I’m looking to collaborate on open-source projects to refine my skills.
 - 💬 Ask me about computer hardware, docker, and privacy.
-- 📫 How to reach me: ejz11@proton.me. (Social links in my profile.)
+- 📫 How to reach me: ejz11@proton.me. <!--(Social links in my profile.)-->
 - ⚡ Fun fact: I run my own homelab.
 
 ---
