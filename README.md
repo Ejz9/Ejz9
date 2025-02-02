@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a undergraduate student in computer science pa
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working school work as the semester begins.
+- 🔭 I’m currently working on class assignments as the semester begins.
 - 🌱 I’m currently learning about system security and software engineering.
 - 👯 I’m looking to collaborate on open-source projects to refine my skills.
 - 💬 Ask me about computer hardware, docker, and privacy.
