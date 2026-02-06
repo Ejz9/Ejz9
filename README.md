@@ -1,73 +1,27 @@
-<!--## Hi there 👋
+# Hi, I'm Edward
 
-<!--
-**Ejz9/Ejz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Center Technician** (L3) and a **Master's student** in Computer Science (Cybersecurity Emphasis) at the University of Wisconsin-Whitewater.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Edward 👋
-
-Welcome to my GitHub profile! I'm a undergraduate student in computer science passionate about open-source, security, and privacy. I enjoy learning new technologies and building projects that solve real-world problems.
+My work focuses on full-stack web development, secure infrastructure, and digital privacy. I have a passion for self-hosting and managing my own hardware, from rack servers to personal rigs.
 
 ---
 
-### 🌟 About Me
+### 🛠️ Technical Stack
 
-- 🔭 I’m currently working on class assignments as the semester begins.
-- 🌱 I’m currently learning about system security and software engineering.
-- 👯 I’m looking to collaborate on open-source projects to refine my skills.
-- 💬 Ask me about computer hardware, docker, and privacy.
-- 📫 How to reach me: ejz11@proton.me. <!--(Social links in my profile.)-->
-- ⚡ Fun fact: I run my own homelab.
-
----
-
-### 💻 Technologies & Tools
-
-Here are some of the tools and technologies I work with:
-
-- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks & Libraries:** ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=black)
-- **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- **Tools:** IntelliJ IDEA, Visual Studio Code, GitHub, Linux
+- **Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Web & Frameworks:** Vue.js, Nuxt, Tailwind CSS, HTML, Electron
+- **Infrastructure & DevOps:** Docker, Linux, Git, Azure, Woodpecker CI, MongoDB
+- **Tools:** JetBrains Suite, VS Code, REST APIs
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are some of the projects I'm currently working on or have contributed to:
+**[Ember](https://github.com/Ejz9/Ember)**
+A self-hosted code snippet manager built for performance and privacy.
+- **Stack:** Nuxt 4, Bun, MongoDB, Tailwind CSS
+- [Live Preview](https://ember.ztree.dev/)
 
-- **[DBMS Project](https://github.com/Ejz9/DMS-Project)** - A app to view football player statistics and information from 1922 - 2022, built with Vue and Electron.
-- **[Texas Holdem CLI](https://github.com/fordashton3/Texas-Holdem)** - A implementation of Texas Holdem in CLI, using Java.
-
----
-
-### 📊 GitHub Stats
-
-Here’s a look at my GitHub activity and stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejz9&show_icons=true&theme=radical)
-
----
-
-### 🎮 Hobbies
-
-- When I'm not coding, you can find me:
-  - 🎮 Playing **Valorant**, **Counter-Strike**, or **Warframe** with friends.
-  - 📚 Reading books on **technology**, **sci-fi**, or **self-improvement**.
-  - 🎧 Listening to **FLAC-quality music**, **tech podcasts**, or exploring **new IEMs** for better audio quality.
-  - 🚗 Tinkering with my **2010 Prius** or planning out tech upgrades like **Apple CarPlay** for my sound system.
-
----
-
-*Thanks for stopping by! Feel free to reach out if you'd like to collaborate, chat, or just connect!*
+**[Texas Holdem CLI](https://github.com/fordashton3/Texas-Holdem)**
+A purely command-line implementation of Texas Holdem poker.
+- **Stack:** Java (OOP)
