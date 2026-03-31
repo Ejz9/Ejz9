@@ -1,12 +1,12 @@
 # Hi, I'm Edward
 
-I am a **Data Center Technician** (L3) and a **Master's student** in Computer Science (Cybersecurity Emphasis) at the University of Wisconsin-Whitewater.
+I am a Data Center Technician (L3) and a Master's student studying Computer Science with a Cybersecurity Engineering emphasis at the University of Wisconsin-Whitewater.
 
-My work focuses on full-stack web development, secure infrastructure, and digital privacy. I have a passion for self-hosting and managing my own hardware, from rack servers to personal rigs.
+My work focuses on full-stack web development, secure infrastructure, and digital privacy. I have a passion for self-hosting and managing my own hardware.
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 - **Languages:** Java, TypeScript, JavaScript, Python, SQL
 - **Web & Frameworks:** Vue.js, Nuxt, Tailwind CSS, HTML, Electron
@@ -15,7 +15,7 @@ My work focuses on full-stack web development, secure infrastructure, and digita
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[Ember](https://github.com/Ejz9/Ember)**
 A self-hosted code snippet manager built for performance and privacy.
